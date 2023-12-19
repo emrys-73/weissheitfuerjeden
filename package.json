@@ -50,6 +50,7 @@
     "ai": "^2.2.29",
     "highlight.js": "11.9.0",
     "openai": "^4.23.0",
-    "openai-edge": "^1.2.2"
+    "openai-edge": "^1.2.2",
+    "pocketbase": "^0.20.1"
   }
 }

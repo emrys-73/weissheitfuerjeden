@@ -37,7 +37,7 @@
 
 </script>
 
-<section class="w-full overflow-auto flex pt-20 flex-col items-center h-full min-h-screen">
+<section class="w-full flex pt-20 flex-col items-center h-full min-h-screen">
     <div class="w-full justify-center flex items-center flex-col h-full py-20">
         <div class="w-full px-10 md:px-0 md:w-3/5 h-full py-2">
             <div class="md:px-20 lg:px-32 py-10">
@@ -62,7 +62,7 @@
             </div>
 
             <div class="w-full h-full py-20">
-                <a href="/blogs/{blogs[0].id}" class="w-full justify-center items-center flex">
+                <a href="/blogs/is4smku4mx286v9" class="w-full justify-center items-center flex">
                     <div class="{$animate} flex flex-col md:flex-row w-full md:h-80  lg:h-60 rounded-none altashadow bg-secondary p-4 hover:bg-base">
                         <!-- Cover image -->
                         <div class="{cover_img} bg-cover w-full md:w-2/5 h-60 md:h-full"/>
